@@ -1,0 +1,10 @@
+Pillow~=8.2.0
+numpy~=1.19.5
+matplotlib~=3.4.2
+scipy~=1.7.0
+opencv-python~=4.5.2.54
+tensorflow
+tensorflow_addons
+tensorflow_hub
+jupyter
+jupyterthemes
