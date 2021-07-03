@@ -1,7 +1,7 @@
 from tensorflow.keras.preprocessing import image_dataset_from_directory
 
 
-SEED = 3513
+SEED = 1214
 
 all_dataset = 'datasets\\all_classes'
 fruit_dataset = 'D:\\PyCharm Projects\\IndianFoodClassfier\\fruits-360\\Training'
