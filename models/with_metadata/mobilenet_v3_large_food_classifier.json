@@ -14,19 +14,6 @@
               "color_space": "RGB"
             }
           },
-          "process_units": [
-            {
-              "options_type": "NormalizationOptions",
-              "options": {
-                "mean": [
-                  127.5
-                ],
-                "std": [
-                  127.5
-                ]
-              }
-            }
-          ],
           "stats": {
             "max": [
               255.0
