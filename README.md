@@ -1,10 +1,10 @@
 # IndianFoodClassifier
 
 ## About
-This is a Image Classifier based on Mobile Net V3 trained on Indian Food Datasets.
+This is an Image Classifier based on Mobile Net V3 trained on Indian Food Datasets.
 
 
-## Usage
+## UsageCancel changes
 TFlite models with labels are generated and can be used natively with Android ML binding. 
 
 ## Owners
