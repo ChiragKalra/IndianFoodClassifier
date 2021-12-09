@@ -11,7 +11,7 @@ TFlite models with labels are generated and can be used natively with Android ML
 Chirag Kalra: https://github.com/ChiragKalra
 
 ## License
-Copyright - 2020 - Chirag Kalra
+Copyright - 2021 - Chirag Kalra
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
