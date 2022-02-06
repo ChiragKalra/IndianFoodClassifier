@@ -1,4 +1,4 @@
-# IndianFoodClassifier
+# Indian Food Classifier
 
 ## About
 This is an Image Classifier based on Mobile Net V3 trained on Indian Food Datasets.
