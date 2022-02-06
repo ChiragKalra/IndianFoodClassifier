@@ -4,7 +4,7 @@
 This is an Image Classifier based on Mobile Net V3 trained on Indian Food Datasets.
 
 
-## UsageCancel changes
+## Usage
 TFlite models with labels are generated and can be used natively with Android ML binding. 
 
 ## Owners
